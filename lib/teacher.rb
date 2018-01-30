@@ -8,3 +8,4 @@ class Teacher
     puts KNOWLEDGE.sample
   end
 end
+end
